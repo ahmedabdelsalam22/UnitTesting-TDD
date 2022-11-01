@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Test-Driven Development with Flutter
 
-This project is a starting point for a Flutter application.
+Find out how to build a Flutter App with a Test-Driven Development approach. Get used to TDD with the Red-Green-Refactor rhythm, and never be afraid to make changes to your code.
 
-A few resources to get you started if this is your first Flutter project:
+TEST-DRIVEN DEVELOPMENT
+TDD is the process of creating software by writing tests in advance to prove the implementation fulfills the requirements. For most developers, it’s not something that comes naturally and the hardest part is to get used to it. But the good news is that the process of TDD is rhythmic, and because of that, I will try to show you by example how easy it is when you feel the rhythm. Basically, through all your work you need to repeat 3 steps/colors:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Write a failing test (Red phase)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
+- Make the test pass — Write just enough code to pass the test (Green phase)
+
+- ![1_kdK8wQljp6MtEKAur6Wjrw](https://user-images.githubusercontent.com/75587814/199216615-86167363-b34a-47e1-8595-ab238ac6ccc8.png)
+Improve the code — Clean up the mess (Refactoring phase)
