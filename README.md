@@ -13,5 +13,7 @@ TDD is the process of creating software by writing tests in advance to prove the
 
 - Make the test pass — Write just enough code to pass the test (Green phase)
 
+- Improve the code — Clean up the mess (Refactoring phase)
+
 - ![1_kdK8wQljp6MtEKAur6Wjrw](https://user-images.githubusercontent.com/75587814/199216615-86167363-b34a-47e1-8595-ab238ac6ccc8.png)
-Improve the code — Clean up the mess (Refactoring phase)
+
