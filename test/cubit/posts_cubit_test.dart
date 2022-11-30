@@ -27,6 +27,7 @@ void main() {
             userId: index,
             title: 'title $index',
             body: 'body $index'));
+            
     when(mockPostsRepository.getPosts()).thenAnswer((_) => Future.value(posts));
 
     //assert
